@@ -1,0 +1,10 @@
+{
+    "customer_name": "Ravi",
+    "city": "Chennai",
+    "product": "Laptop",
+    "quantity": 3,
+    "unit_price": 45000,
+    "discount": 10,
+    "payment_method": "UPI",
+    "order_id": "ORD1001"
+}

@@ -1,0 +1,4 @@
+Customer Ravi from Chennai purchased 3 Laptops at ₹45000 each.
+A 10% discount was applied.
+Payment was made using UPI.
+Order ID: ORD1001.
